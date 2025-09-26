@@ -2,12 +2,12 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: confirmation.of.payee
-  title: Confirmation-Of-Payee
+  title: Confirmation-of-Payee
   description: |
     A prototype to test things
 
   annotations:
-    gitlab.com/project-slug: dwp/user-centred-design/confirmation-of-paye
+    gitlab.com/project-slug: dwp/user-centred-design/confirmation-of-payee
 
   labels:
     dwp.gov.uk/version: 1.0.0
